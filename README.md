@@ -19,4 +19,4 @@ Data & AI Enthusiast with experience in building data-driven systems and automat
 - Automated transcript processing
 
 ### 📫 Let's connect
-- LinkedIn: [isi link kamu]
+- LinkedIn: https://www.linkedin.com/in/nafi/
